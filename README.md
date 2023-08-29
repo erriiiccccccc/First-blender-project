@@ -1,8 +1,8 @@
 <h1 align="center">My very first blender project 👍</h1>
 
-I followed a 16 part tutorial series by youtuber BlenderGuru[https://www.youtube.com/@blenderguru] 
+I followed a 16 part tutorial series by youtuber [Blender Guru](https://www.youtube.com/@blenderguru)
 
-Playlist: https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD
+Playlist: [link](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
 
 What ive learnt:
 1. Blender Basics
